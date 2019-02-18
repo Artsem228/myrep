@@ -1,0 +1,11 @@
+commit a8894372cfbf89f73054735b69643f13336466db (HEAD -> master)
+Author: Artsem <johnweak@mail.ru>
+Date:   Mon Feb 18 17:28:24 2019 +0300
+
+    add status.txt
+
+commit 70eb4da475e22cb7ab9ed47a1388c92104bdbd40
+Author: Artsem <johnweak@mail.ru>
+Date:   Tue Feb 12 20:13:55 2019 +0300
+
+    add .gitignore
